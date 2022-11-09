@@ -1,0 +1,12 @@
+{
+"name":"All Your Socials",
+"description": "Access all your social media platfroms",
+"version": "0.0.1",
+"manifest_version": 3,
+
+"action":{
+"default_popup":"popup.html" ,
+"default_icon": "fav.png"
+}
+
+}

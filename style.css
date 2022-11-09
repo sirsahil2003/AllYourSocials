@@ -1,0 +1,28 @@
+.myJoke{
+text-align: center;
+justify-content: center;
+padding: 10px;
+font-size: 16px;
+min-width: 100px;
+width: 300px;
+box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+
+} 
+p{
+    padding: 10px;
+    font-size: 16px;
+    min-width: 100px;
+    width: 300px;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    text-align: center;
+    
+    }
+.social-icons span a i{
+padding: 15px;
+font-size: 2rem;
+border-radius: 20px;
+}
+
+.social-icons span a i:hover{
+    box-shadow:0px 0px 6px 4px rgb(152, 131, 131) ;
+}
